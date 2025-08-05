@@ -26,8 +26,8 @@ Data Warehousing, Data Quality, ETL, ASP.NET, Cloud Foundations
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=karb01&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karb01&theme=dark&show_icons=true&count_private=true" alt="Top Languages" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karb01&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karb01&theme=dark&show_icons=true&count_private=true" alt="Top Languages" height="200">
 </div>
 
 ---
