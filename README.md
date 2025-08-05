@@ -26,16 +26,15 @@ Data Warehousing, Data Quality, ETL, ASP.NET, Cloud Foundations
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Karb01&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karb01&theme=dark&show_icons=true&count_private=true" alt="Top Languages" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=karb01&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karb01&theme=dark&show_icons=true&count_private=true" alt="Top Languages" height="200">
 </div>
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/kaynan-ribeiro-63aa9017a/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaynan-ribeiro-63aa9017a/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaynan_baptista/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karb01)
 
